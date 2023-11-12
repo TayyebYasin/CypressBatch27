@@ -22,6 +22,10 @@ describe('Test for pop-up scenario', () => {
 
     })
 
+    it('Git example',() =>{
+        cy.log(test);
+
+        })
 
 
 })
