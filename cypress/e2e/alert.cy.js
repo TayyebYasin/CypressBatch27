@@ -22,10 +22,10 @@ describe('Test for pop-up scenario', () => {
 
     })
 
-    it('Git example',() =>{
-        cy.log(test);
+    //it('Git example',() =>{
+     //   cy.log(test);
 
-        })
+     //   })
 
 
 })
